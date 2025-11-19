@@ -141,16 +141,3 @@ curso_desenvolvimento_web/
 │
 └── README.md
 ```
-
----
-
-## 🎯 Próximos passos (opcionais)
-
-- ✅ Adicionar **badges** de linguagem, build e license.  
-- ✅ Inserir **links** para os projetos e exercícios.  
-- ✅ Personalizar com **imagem de capa** e logo do curso.  
-- ✅ Gerar versões em **inglês** e **PDF**.
-
----
-
-**Boa sorte nos estudos — mãos à obra!**
